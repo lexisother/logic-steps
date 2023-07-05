@@ -1,0 +1,10 @@
+{
+  "id": "logic-steps",
+  "version": "1.0.0",
+  "title": "Logic Steps",
+  "description": "Adds a couple custom patch steps that allow for control of logic flow.",
+  "postload": "postload.js",
+  "dependencies": {
+    "ccloader": ">=2.22.1"
+  }
+}
