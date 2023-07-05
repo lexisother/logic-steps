@@ -1,10 +1,11 @@
 {
-  "id": "logic-steps",
+  "name": "Logic Steps",
   "version": "1.0.1",
-  "title": "Logic Steps",
   "description": "Adds a couple custom patch steps that allow for control of logic flow.",
+  "homepage": "https://github.com/lexisother/logic-steps",
+  "module": true,
   "postload": "postload.js",
-  "dependencies": {
+  "ccmodDependencies": {
     "ccloader": ">=2.22.1"
   }
 }
