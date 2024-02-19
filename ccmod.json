@@ -3,8 +3,11 @@
   "version": "1.0.1",
   "title": "Logic Steps",
   "description": "Adds a couple custom patch steps that allow for control of logic flow.",
-  "postload": "postload.js",
+  "repository": "https://github.com/lexisother/logic-steps",
+  "tags": ["library"],
+  "authors": "lexisother",
   "dependencies": {
     "ccloader": ">=2.22.1"
-  }
+  },
+  "postload": "postload.js"
 }
